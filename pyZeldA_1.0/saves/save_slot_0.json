@@ -1,0 +1,33 @@
+{
+    "player_name": "prova",
+    "level": 1,
+    "current_xp": 0,
+    "xp_needed": 10,
+    "hp": 10,
+    "max_hp": 10,
+    "mp": 6,
+    "max_mp": 6,
+    "inventory": {
+        "weapons": [
+            "SPADA"
+        ],
+        "magic": [
+            "FIRE",
+            "SPECCHIO"
+        ],
+        "items": [
+            "POZIONE",
+            "POZIONE"
+        ]
+    },
+    "equipped": {
+        "weapon": "SPADA",
+        "magic": [
+            "FIRE",
+            "SPECCHIO"
+        ],
+        "item": "POZIONE"
+    },
+    "lire": 0,
+    "play_time": 46089
+}
